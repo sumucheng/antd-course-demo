@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
-        "Sider"
-    ]
+        "Sider",
+        "puzzlecards"
+    ],
+    "javascript.implicitProjectConfig.experimentalDecorators": true
 }
