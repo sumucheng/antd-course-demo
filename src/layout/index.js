@@ -20,6 +20,12 @@ export default function BasicLayout(props) {
                         <Menu.Item key="3"><Link to="/dashboard/monitor">监控页</Link></Menu.Item>
                         <Menu.Item key="4"><Link to="/dashboard/workplace">工作台</Link></Menu.Item>
                     </SubMenu>
+                    <Menu.Item key='5'>
+                        <Link to="/list">
+                            <Icon type="unordered-list" />
+                            <span>List</span>
+                        </Link>
+                    </Menu.Item>
                 </Menu>
             </Sider>
             <Layout>
