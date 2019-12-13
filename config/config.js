@@ -6,6 +6,9 @@ export default {
             dva: true,
         }],
     ],
+    // theme: {
+    //     "@primary-color": "#30b767", // 绿色
+    // },
     proxy: {
         "/dev": {
             target: "http://jsonplaceholder.typicode.com",
